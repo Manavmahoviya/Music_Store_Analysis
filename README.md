@@ -8,7 +8,8 @@ This SQL project focuses on analyzing data from a music store database to derive
 ## Project Structure
 The project consists of three sets of SQL queries categorized by difficulty levels: Easy, Moderate, and Advanced. Each set of queries addresses specific business questions ranging from basic data retrieval to more complex analytics.
 
-### Schema_diagram <img width="594" alt="schema_diagram" src="https://github.com/Manavmahoviya/Music_Store_Analysis/assets/113713554/be2daa61-d26d-48b2-b796-aaaf2b1f4da3">
+### Schema_diagram 
+<img width="594" alt="schema_diagram" src="https://github.com/Manavmahoviya/Music_Store_Analysis/assets/113713554/be2daa61-d26d-48b2-b796-aaaf2b1f4da3">
 
 
 
